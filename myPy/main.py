@@ -16,8 +16,8 @@ import telegram
 import discordu
 
 if __name__ == "__main__":
-    Chat_id = '1251098499'
-    Token = '6441831718:AAFOcfKAWNpQoZPftb01SbEr3mEvZsMfEJ0'
+    Chat_id = ''
+    Token = ''
 
     createfolders.create_all()
 
