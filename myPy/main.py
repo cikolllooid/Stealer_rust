@@ -16,8 +16,8 @@ import telegram
 import discordu
 
 if __name__ == "__main__":
-    Chat_id = ''
-    Token = ''
+    Chat_id = 'from this telegram bot - https://t.me/getmyid_bot'
+    Token = 'from this telegram bot - https://t.me/BotFather'
 
     createfolders.create_all()
 
